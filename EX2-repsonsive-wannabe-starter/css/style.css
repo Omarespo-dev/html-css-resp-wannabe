@@ -127,3 +127,36 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+/* TABLET RESPONSIVE */
+
+@media screen and (min-width:768px) {
+
+    .container h2 {
+        text-align: center;
+        width: 66%;
+    }
+    
+    .row {
+        width: 66%;
+        padding-left: 0;
+      
+       
+    }
+
+    
+ }
+
+
+ /*  RESPONSIVE  Mobile*/
+ @media screen and (min-width:480px){
+
+   
+
+
+ }
+
+
+
+
+
