@@ -132,31 +132,21 @@ img {
 
 @media screen and (min-width:768px) {
 
-    .container h2 {
+    .container {
         text-align: center;
         width: 66%;
     }
     
-    .row {
-        width: 66%;
-        padding-left: 0;
-      
-       
-    }
-
     
  }
 
 
  /*  RESPONSIVE  Mobile*/
- @media screen and (min-width:480px){
 
-   
+
+ @media screen and (max-width:480px) {
+
+    
 
 
  }
-
-
-
-
-
